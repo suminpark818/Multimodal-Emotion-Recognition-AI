@@ -1,4 +1,4 @@
-# 🎯 Multimodal Emotion Recognition System  
+# Multimodal Emotion Recognition System  
 ### (멀티모달 감정 인식 시스템)
 
 This project implements an **AI-based emotion recognition pipeline** that analyzes both **facial expressions (image)** and **voice tone (audio)** in real time.  
@@ -6,7 +6,7 @@ This project implements an **AI-based emotion recognition pipeline** that analyz
 
 ---
 
-## 🧩 System Architecture / 시스템 구조
+##  System Architecture / 시스템 구조
 
 ```
 
