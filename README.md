@@ -2,7 +2,7 @@
 ### (멀티모달 감정 인식 시스템)
 
 This project implements an **AI-based emotion recognition pipeline** that analyzes both **facial expressions (image)** and **voice tone (audio)** in real time.  
-이 프로젝트는 **영상(얼굴 표정)**과 **음성(말투)**을 동시에 분석해 감정을 실시간으로 인식하는 AI 기반 시스템입니다.
+이 프로젝트는 영상(얼굴 표정)과 음성(말투)을 동시에 분석해 감정을 실시간으로 인식하는 AI 기반 시스템입니다.
 
 ---
 
