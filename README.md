@@ -72,7 +72,10 @@ This project implements an **AI-based emotion recognition pipeline** that analyz
 - Knowledge Distillation으로 **경량화 + 고성능 동시 달성**  
 - MPS / CPU / GPU 호환 (macOS M1~Windows)  
 - 최적의 Macro-F1 기준 자동 저장  
+<img width="512" height="442" alt="Screenshot 2026-10-05 at 22 20 38" src="https://github.com/user-attachments/assets/1e626108-8c15-460f-ba1a-e9dac78e654b" />
 
+> **Result:** Macro F1 improved from 0.81 → 0.86 (Sad +0.07, Angry +0.06)
+> **결과:** 얼굴 감정 모델 평균 F1 0.81 → 0.86 향상
 ---
 
 ## 3. Real-Time Multimodal Flask Server  
